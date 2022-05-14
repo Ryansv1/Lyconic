@@ -1,0 +1,7 @@
+{
+  "name": "Lycooper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
